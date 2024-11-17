@@ -36,13 +36,13 @@ This repository showcases examples of **method overloading** and **method overri
 
 ## 🚀 How to Run  
 
-1. Clone the repository:  
+1. Clone the repository:- 
    ```bash
    git clone https://github.com/kosala-dev/java-method-overloading-overriding.git
-2. Compile the codes
+2. Compile the codes:- 
    javac parent_overriding.java child_overriding.java
    
-3. Run the child_overriding class:
+3. Run the child_overriding class:- 
 java child_overriding
 
 🧑‍💻 Concepts Demonstrated
